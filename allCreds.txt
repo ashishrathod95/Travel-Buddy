@@ -1,1 +1,4 @@
 This is credential file
+
+email: abc@hotmail.com
+password: byebye2024
